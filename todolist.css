@@ -1,0 +1,63 @@
+body{
+    background-color: #ccddff;
+}
+.app{
+    text-align: center;
+}
+
+.container{
+    background-color: rgb(78, 185, 151);
+    justify-content: center;
+    width: 50%;
+    margin-left: 26%;
+    margin-top: 5%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.header{
+    background: black;
+    font-weight: 800;
+    font-size: 20px;
+    border-radius: 5px;
+    color: #ccddff;
+    font-style: italic;
+    
+
+}
+input{
+    border-radius: 5px;
+    border: transparent;
+    padding: 10px;
+    padding-left: 135px;
+    margin: 10px;
+    background-color: transparent;
+    background-color: #ccddff;
+
+}
+button{
+   
+    background-color: #ccddff;
+    border: transparent;
+    padding: 11px ;
+    padding-left:35px;
+    padding-right: 35px;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background:darkorange;
+}
+input:hover{
+    background-color: transparent;
+}
+.list-heading{
+    background-color: black;
+    border-radius: 5px;
+    color: #ccddff;
+    font-weight: 200;
+
+
+
+}
